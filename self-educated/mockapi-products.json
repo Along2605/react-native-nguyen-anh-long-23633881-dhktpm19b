@@ -1,0 +1,11 @@
+[
+  { "id": "1", "name": "iPhone 15", "category": "Điện thoại", "price": 19990000, "rating": 8.5, "image": "https://picsum.photos/seed/sp1/300/450", "inStock": true },
+  { "id": "2", "name": "Samsung Galaxy S24", "category": "Điện thoại", "price": 17490000, "rating": 8, "image": "https://picsum.photos/seed/sp2/300/450", "inStock": false },
+  { "id": "3", "name": "MacBook Air M3", "category": "Laptop", "price": 27990000, "rating": 9.2, "image": "https://picsum.photos/seed/sp3/300/450", "inStock": true },
+  { "id": "4", "name": "Dell XPS 13", "category": "Laptop", "price": 25490000, "rating": 7.6, "image": "https://picsum.photos/seed/sp4/300/450", "inStock": true },
+  { "id": "5", "name": "AirPods Pro 2", "category": "Tai nghe", "price": 5990000, "rating": 9, "image": "https://picsum.photos/seed/sp5/300/450", "inStock": false },
+  { "id": "6", "name": "Sony WH-1000XM5", "category": "Tai nghe", "price": 7490000, "rating": 8.8, "image": "https://picsum.photos/seed/sp6/300/450", "inStock": true },
+  { "id": "7", "name": "Apple Watch Series 9", "category": "Đồng hồ", "price": 9990000, "rating": 7.4, "image": "https://picsum.photos/seed/sp7/300/450", "inStock": true },
+  { "id": "8", "name": "Xiaomi Smart Band 8", "category": "Đồng hồ", "price": 890000, "rating": 6.5, "image": "https://picsum.photos/seed/sp8/300/450", "inStock": true },
+  { "id": "9", "name": "iPad Air 11 inch", "category": "Máy tính bảng", "price": 16990000, "rating": 8.1, "image": "https://picsum.photos/seed/sp9/300/450", "inStock": false }
+]
