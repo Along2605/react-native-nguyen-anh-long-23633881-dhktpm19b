@@ -1,5 +1,5 @@
 export type ColorKey = "silver" | "red" | "black" | "blue";
- 
+
 export interface Phone {
   id: string;
   name: string;
