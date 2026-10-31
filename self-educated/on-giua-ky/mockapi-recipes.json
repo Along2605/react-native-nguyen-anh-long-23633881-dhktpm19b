@@ -1,0 +1,128 @@
+[
+ {
+  "id": "1",
+  "name": "Phở bò",
+  "category": "Món chính",
+  "cookTime": 45,
+  "difficulty": "hard",
+  "calories": 450,
+  "image": "https://picsum.photos/seed/rc1/400/300"
+ },
+ {
+  "id": "2",
+  "name": "Bánh flan",
+  "category": "Tráng miệng",
+  "cookTime": 40,
+  "difficulty": "medium",
+  "calories": 220,
+  "image": "https://picsum.photos/seed/rc2/400/300"
+ },
+ {
+  "id": "3",
+  "name": "Trà đào cam sả",
+  "category": "Đồ uống",
+  "cookTime": 10,
+  "difficulty": "easy",
+  "calories": 120,
+  "image": "https://picsum.photos/seed/rc3/400/300"
+ },
+ {
+  "id": "4",
+  "name": "Gỏi cuốn",
+  "category": "Ăn vặt",
+  "cookTime": 25,
+  "difficulty": "easy",
+  "calories": 180,
+  "image": "https://picsum.photos/seed/rc4/400/300"
+ },
+ {
+  "id": "5",
+  "name": "Cơm tấm sườn",
+  "category": "Món chính",
+  "cookTime": 50,
+  "difficulty": "medium",
+  "calories": 650,
+  "image": "https://picsum.photos/seed/rc5/400/300"
+ },
+ {
+  "id": "6",
+  "name": "Chè khúc bạch",
+  "category": "Tráng miệng",
+  "cookTime": 35,
+  "difficulty": "medium",
+  "calories": 260,
+  "image": "https://picsum.photos/seed/rc6/400/300"
+ },
+ {
+  "id": "7",
+  "name": "Cà phê muối",
+  "category": "Đồ uống",
+  "cookTime": 5,
+  "difficulty": "easy",
+  "calories": 150,
+  "image": "https://picsum.photos/seed/rc7/400/300"
+ },
+ {
+  "id": "8",
+  "name": "Bánh tráng trộn",
+  "category": "Ăn vặt",
+  "cookTime": 15,
+  "difficulty": "easy",
+  "calories": 300,
+  "image": "https://picsum.photos/seed/rc8/400/300"
+ },
+ {
+  "id": "9",
+  "name": "Bún bò Huế",
+  "category": "Món chính",
+  "cookTime": 60,
+  "difficulty": "hard",
+  "calories": 520,
+  "image": "https://picsum.photos/seed/rc9/400/300"
+ },
+ {
+  "id": "10",
+  "name": "Sữa chua nếp cẩm",
+  "category": "Tráng miệng",
+  "cookTime": 20,
+  "difficulty": "easy",
+  "calories": 210,
+  "image": "https://picsum.photos/seed/rc10/400/300"
+ },
+ {
+  "id": "11",
+  "name": "Sinh tố bơ",
+  "category": "Đồ uống",
+  "cookTime": 8,
+  "difficulty": "easy",
+  "calories": 280,
+  "image": "https://picsum.photos/seed/rc11/400/300"
+ },
+ {
+  "id": "12",
+  "name": "Khoai tây lắc phô mai",
+  "category": "Ăn vặt",
+  "cookTime": 20,
+  "difficulty": "medium",
+  "calories": 350,
+  "image": "https://picsum.photos/seed/rc12/400/300"
+ },
+ {
+  "id": "13",
+  "name": "Cá kho tộ",
+  "category": "Món chính",
+  "cookTime": 40,
+  "difficulty": "medium",
+  "calories": 380,
+  "image": "https://picsum.photos/seed/rc13/400/300"
+ },
+ {
+  "id": "14",
+  "name": "Bánh bò nướng",
+  "category": "Tráng miệng",
+  "cookTime": 70,
+  "difficulty": "hard",
+  "calories": 310,
+  "image": "https://picsum.photos/seed/rc14/400/300"
+ }
+]

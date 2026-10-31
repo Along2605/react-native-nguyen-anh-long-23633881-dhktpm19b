@@ -1,0 +1,66 @@
+[
+ {
+  "id": "1",
+  "title": "Lịch thi giữa kỳ",
+  "content": "LTDĐ thi thứ 5, mang 1 tờ A4 viết tay, làm trên Snack 60 phút.",
+  "color": "pink",
+  "pinned": true,
+  "createdAt": "2026-10-12"
+ },
+ {
+  "id": "2",
+  "title": "Mua đồ siêu thị",
+  "content": "Sữa, trứng, rau cải, cà chua, mì gói.",
+  "color": "green",
+  "pinned": false,
+  "createdAt": "2026-10-11"
+ },
+ {
+  "id": "3",
+  "title": "Ý tưởng app",
+  "content": "App ghi chú có đồng bộ lịch và nhắc việc theo vị trí.",
+  "color": "blue",
+  "pinned": false,
+  "createdAt": "2026-10-09"
+ },
+ {
+  "id": "4",
+  "title": "Mật khẩu wifi phòng lab",
+  "content": "Hỏi lại thầy trước buổi thực hành.",
+  "color": "yellow",
+  "pinned": true,
+  "createdAt": "2026-10-08"
+ },
+ {
+  "id": "5",
+  "title": "Đọc sách",
+  "content": "Clean Code chương 3: Functions.",
+  "color": "yellow",
+  "pinned": false,
+  "createdAt": "2026-10-07"
+ },
+ {
+  "id": "6",
+  "title": "Họp nhóm đồ án",
+  "content": "Thứ 7 lúc 9h, thư viện tầng 3, chuẩn bị slide.",
+  "color": "blue",
+  "pinned": false,
+  "createdAt": "2026-10-10"
+ },
+ {
+  "id": "7",
+  "title": "Tập gym",
+  "content": "Ngực + tay sau, 45 phút.",
+  "color": "green",
+  "pinned": false,
+  "createdAt": "2026-10-06"
+ },
+ {
+  "id": "8",
+  "title": "Hạn nộp học phí",
+  "content": "Trước ngày 20/10.",
+  "color": "pink",
+  "pinned": false,
+  "createdAt": "2026-10-05"
+ }
+]
