@@ -19,20 +19,16 @@ export function AccountScreen() {
           <Text style={styles.avatar}>🙂</Text>
           <Text style={styles.name}>{user.name}</Text>
           <Text style={styles.email}>{user.email}</Text>
-          <Pressable style={[styles.btn, styles.btnOutline]} onPress={() => void signOut}>
-            <Text style={styles.btnOutlineText}>Đăng xuất</Text>
-          </Pressable>
+                    <Pressable style={[styles.btn, styles.btnOutline]} onPress={signOut}>Đăng xuất</Pressable>
         </View>
       ) : (
         <View style={styles.box}>
           <Text style={styles.avatar}>🔒</Text>
           <Text style={styles.name}>Bạn chưa đăng nhập</Text>
-          <Pressable
+                    <Pressable
             style={styles.btn}
-            onPress={() => void signIn}
-          >
-            <Text style={styles.btnText}>Đăng nhập thử (dữ liệu giả)</Text>
-          </Pressable>
+            onPress={() => signIn({ id: 1, name: "Học viên Demo", email: "demo@bookstore.vn" }, "fake-token")}
+          >Đăng nhập thử</Pressable>
         </View>
       )}
     </View>

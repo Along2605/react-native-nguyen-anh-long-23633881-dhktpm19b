@@ -10,10 +10,7 @@ import { AccountScreen } from "../screens/AccountScreen";
 const Tab = createBottomTabNavigator<TabParamList>();
 
 export function TabNavigator() {
-  // TODO BT7.1b: sau khi viết xong CustomTabBar, thêm vào Tab.Navigator prop:
-  //   tabBar={(props) => <CustomTabBar {...props} />}
-  // (Hiện đang dùng thanh tab MẶC ĐỊNH của thư viện — chưa phải giao diện tự dựng.)
-  void CustomTabBar;
+      <Tab.Navigator screenOptions={{ headerShown: false }} tabBar={(props) => <CustomTabBar {...props} />}/>
   return (
     <Tab.Navigator screenOptions={{ headerShown: false }}>
       <Tab.Screen name="Home" component={HomeScreen} options={{ title: "Home" }} />
